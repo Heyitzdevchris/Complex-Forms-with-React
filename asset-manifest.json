@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/Complex-Forms-with-React/static/css/main.31d6cfe0.css",
+    "main.js": "/Complex-Forms-with-React/static/js/main.d4624ca2.js",
+    "index.html": "/Complex-Forms-with-React/index.html",
+    "main.d4624ca2.js.map": "/Complex-Forms-with-React/static/js/main.d4624ca2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.d4624ca2.js"
+  ]
+}
